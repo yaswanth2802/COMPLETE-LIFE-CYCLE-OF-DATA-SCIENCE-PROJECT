@@ -5,9 +5,9 @@ LIFE CYCLE OF A DATA SCIENCE PROJECT -----> FEATURE ENGNEERING ----->FEATURE SEL
 ```
 ```bash
 COMPLETE FEATURE ENGNEERING TECHNIQUES
--Exploratory data analysis
--Handling missing values
--Handlinh outliers
--Categorical encoding
--NOrmalization and standardization
+- Exploratory data analysis
+- Handling missing values
+- Handlinh outliers
+- Categorical encoding
+- NOrmalization and standardization
 ```
