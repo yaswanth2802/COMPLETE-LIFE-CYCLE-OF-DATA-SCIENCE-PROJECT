@@ -1,3 +1,9 @@
+```bash
+# WHAT IS DATA SCIENCE ?
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from noisy, structured and unstructured data,and apply knowledge and actionable insights from data across a broad range of application domains.
+```
+![alt text](https://4a98ap3993lcyavjn2w2d1o1-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/ai-ml-dl-ds-venn-diagram-deviq.png)
+
 # COMPLETE-LIFE-CYCLE-OF-DATA-SCIENCE-PROJECT
 
 ```bash
@@ -12,7 +18,7 @@ LIFE CYCLE OF A DATA SCIENCE PROJECT -----> LOADING THE DATA -----> FEATURE ENGN
 - NOrmalization and standardization
 ```
 ```bash
-
+** FEATURE SELECTION TECHNIQUES **
 - correlation
 - forward elimination
 - backward elimination
@@ -21,4 +27,12 @@ LIFE CYCLE OF A DATA SCIENCE PROJECT -----> LOADING THE DATA -----> FEATURE ENGN
 - feature election with decision trees
 ```
 ```bash
-<mark>Marked text</mark>
+** MODEL CREATION AND HYPERPARAMETER TECHNIQUES **
+- gridsearchCV
+- randomized searchcv
+- keras tuner
+- bayesian optimization-hyperopt
+- genetics algorithms
+- optuna
+
+
